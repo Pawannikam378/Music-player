@@ -6,7 +6,7 @@ Features:
  * Customizable sections to tailor the resume to specific job requirements.
  * Option to download the generated resume as a PDF file.
 Getting Started:
- * Clone the repository: git clone https://github.com/your-username/resume-generator.git
+ * Clone the repository: git clone https://github.com/Pawannikam378/Music-player
  * Install dependencies: npm install
  * Run the application: npm start
  * Open http://localhost:3000 in your web browser.
