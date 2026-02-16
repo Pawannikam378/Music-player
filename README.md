@@ -1,4 +1,4 @@
-This app is created using html,css and js it is a basic music players
+This app is created using HTML,css and JS. It is a basic music player
 Resume Generator
 This project is a web-based resume generator built using HTML, CSS, and JavaScript. It helps users create professional and customizable resumes by providing a user-friendly interface to input their information and generate a downloadable resume file.
 Features:
