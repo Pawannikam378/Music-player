@@ -16,5 +16,4 @@ Usage:
  * Click the "Generate Resume" button to download your resume as a PDF file.
 Contributing:
 We welcome contributions to this project! Feel free to report issues, suggest improvements, or submit pull requests.
-License:
-This project is licensed under the MIT License.
+License.
