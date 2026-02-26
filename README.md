@@ -4,7 +4,6 @@ This project is a web-based resume generator built using HTML, CSS, and JavaScri
 Features:
  * Easy-to-use interface for entering personal information, education, work experience, skills, and other relevant details.
  * Customizable sections to tailor the resume to specific job requirements.
- * Option to download the generated resume as a PDF file.
 Getting Started:
  * Clone the repository: git clone https://github.com/Pawannikam378/Music-player
  * Install dependencies: npm install
